@@ -3,7 +3,6 @@
     justify-content: center;
     display: flex;
     flex-direction: column;
-    margin:auto
 }
 .row{
     flex-shrink: 0;
@@ -11,5 +10,4 @@
     max-width: 100%;
     padding-right: calc(var(--bs-gutter-x) * .5);
     padding-left: calc(var(--bs-gutter-x) * .5);
-    margin: auto;
 }
