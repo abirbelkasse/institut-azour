@@ -24,4 +24,5 @@ body {
     width: 900px;
     height: 900px;  
     margin: 20px; 
-}
+}.m-4 {
+    margin: 10px;
