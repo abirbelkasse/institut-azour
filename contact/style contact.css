@@ -14,7 +14,7 @@
     top: 1rem;
     bottom: inherit;
     left: inherit;
-    margin-right: 1rem;
+    margin-right: auto;
 }
 .overflow {
     position: relative;
@@ -27,4 +27,5 @@
     position: absolute;
      width: 100%;
      height: 100%;
+    
  }
