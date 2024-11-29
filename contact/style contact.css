@@ -1,7 +1,7 @@
 /* Credits to https://bootsnipp.com/snippets/1d3X9 */
 
 .b-0 {
-    bottom: 0;
+    bottom: auto;
 }
 .bg-shadow {
     background: rgba(76, 76, 76, 0);
